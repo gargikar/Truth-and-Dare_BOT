@@ -162,6 +162,8 @@ truths = ["What’s the last lie you told?",
 "Have you ever peed in your dream that caused an actual leak"
 ,
 "Have you ever peed,farted and coughed at the same time?"
+,
+"When was the last time you kissed?"
 ]
 
 
@@ -325,6 +327,8 @@ dares = ["Call your crush or any random person you never talk and start a random
 "Make out with a pillow"
 ,
 "Mail your father that you have 5 backlogs"
+,
+"Slap yourself 5 times"
 ]
 
 
